@@ -1,0 +1,6 @@
+com\quantumleap\pages\LoginPage.class
+com\quantumleap\pages\ProductsPage.class
+com\quantumleap\pages\CheckoutPage.class
+com\quantumleap\core\ExtentManager.class
+com\quantumleap\core\DriverFactory.class
+com\quantumleap\pages\CartPage.class
